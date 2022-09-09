@@ -57,7 +57,7 @@ def criarImagem(data):
 ##
 ##with open("Binary_da_imagem.txt", "a+") as f:
 ##f.write(binaryData)
-s
+
 # Função para iniciar o script
 # Function to star the scrpit
 inicio()
